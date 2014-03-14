@@ -1,1 +1,8 @@
-Simple mergesort as presented by Nick inc lass. 
+Mergesort
+====
+
+Simple mergesort
+
+
+##License
+http://rsedighi.mit-license.org
